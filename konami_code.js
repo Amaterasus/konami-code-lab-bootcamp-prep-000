@@ -25,7 +25,7 @@ function init()
       console.log(codes[i]);
       if (i === codes.length)
       {
-        alert("Konami!!!");
+        window.alert("Konami!!!");
         
         i = 0;
       }
